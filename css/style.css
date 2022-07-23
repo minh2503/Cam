@@ -25,7 +25,7 @@ a {
   text-align: center;
   min-height: 100vh;
   padding: 14% 13% 14% 13%;
-  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-family: "Sans serif", cursive, sans-serif;
 }
 
 *,
@@ -52,9 +52,9 @@ a {
 .text_shadows {
   text-shadow: 3px 3px 0 var(--color-secondary), 6px 6px 0 var(--color-tertiary),
     9px 9px var(--color-quaternary), 12px 12px 0 var(--color-quinary);
-  font-family: Sans serif, sans-serif;
+  font-family: bungee, sans-serif;
   font-weight: 400;
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-size: calc(2rem + 5vw);
   text-align: center;
   margin: 0;
@@ -136,7 +136,7 @@ img {
 h1,
 h2,
 h3 {
-  text-transform: uppercase;
+  text-transform: capitalize;
   color: #ff7675;
 }
 
@@ -262,7 +262,7 @@ h3 {
 }
 @import url(https://fonts.googleapis.com/css?family=Raleway:400);
 #main button {
-  font-family: "Sans serif", Sans serif, sans-serif;
+  font-family: "Sans serif", Arial, sans-serif;
   z-index: 1;
   border: none;
   background-color: #ea8685;
@@ -274,8 +274,8 @@ h3 {
   padding: 0px 30px;
   display: inline-block;
   margin: 15px 30px;
-  text-transform: uppercase;
-  line-height: 46px;
+  text-transform: capitalize;
+  line-height: normal;
   font-weight: 400;
   font-size: 1em;
   outline: none;

@@ -52,7 +52,7 @@ a {
 .text_shadows {
   text-shadow: 3px 3px 0 var(--color-secondary), 6px 6px 0 var(--color-tertiary),
     9px 9px var(--color-quaternary), 12px 12px 0 var(--color-quinary);
-  font-family: bungee, sans-serif;
+  font-family: Sans serif, sans-serif;
   font-weight: 400;
   text-transform: uppercase;
   font-size: calc(2rem + 5vw);
@@ -179,7 +179,7 @@ h3 {
 .snowflake {
   color: #fff;
   font-size: 1em;
-  font-family: Arial, sans-serif;
+  font-family: Sans serif, sans-serif;
   text-shadow: 0 0 5px #000;
   position: fixed;
   top: -10%;
@@ -262,7 +262,7 @@ h3 {
 }
 @import url(https://fonts.googleapis.com/css?family=Raleway:400);
 #main button {
-  font-family: "Raleway", Arial, sans-serif;
+  font-family: "Sans serif", Sans serif, sans-serif;
   z-index: 1;
   border: none;
   background-color: #ea8685;

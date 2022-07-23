@@ -1,3 +1,5 @@
+
+
 body {
   background-image: url("https://i.pinimg.com/originals/fe/2f/b7/fe2fb77e58fcdcbe3d87bd4c6ab46244.gif");
   background-repeat: none;
@@ -25,7 +27,7 @@ a {
   text-align: center;
   min-height: 100vh;
   padding: 14% 13% 14% 13%;
-  font-family: "Sans serif", cursive, sans-serif;
+  font-family: "athelas ", athelas, sans-serif;
 }
 
 *,
@@ -262,7 +264,7 @@ h3 {
 }
 @import url(https://fonts.googleapis.com/css?family=Raleway:400);
 #main button {
-  font-family: "Sans serif", Arial, sans-serif;
+  font-family: "Athelas ", athelasx, sans-serif;
   z-index: 1;
   border: none;
   background-color: #ea8685;
